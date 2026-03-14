@@ -9,7 +9,6 @@
     "ip": "Danivi6502.aternos.me",
     "port":  22583,
     "version": "1.21.1",
-    "try-creative": false
   },
   "position": {
     "enabled": true,
